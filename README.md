@@ -1,1 +1,1 @@
-# test
+# Entorns de desenvolupament
